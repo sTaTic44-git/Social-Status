@@ -21,7 +21,7 @@ cryptography==50.0.2
 tenacity==9.2.1
 phonenumbers==9.0.43
 boto3==1.43.127
-moviepy==1.0.3
+moviepy==2.2.1
 python-dateutil==2.9.0.post0
 croniter==6.2.4
 channels==4.3.2
